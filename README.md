@@ -10,7 +10,7 @@ This project implements **Linear Regression from scratch** using **Gradient Desc
 
 ## 📊 Results  
 - The model learns the parameters (slope & intercept) directly from data  
-- Gradient Descent converges smoothly as shown in the loss curve  
+- Gradient Descent converges smoothly
 
 ## 🛠️ Tech Stack  
 - **Python**  
